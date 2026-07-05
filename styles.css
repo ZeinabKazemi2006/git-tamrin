@@ -5,8 +5,19 @@
 }
 
 .container-1{
-    width: 200px;
-    height: 200px;
+    width: 500px;
+    min-height: 200px;
     background-color: brown;
     color: white;
+    padding: 2rem;
+    margin: 200px auto;
+}
+.container-1 h1{
+    white-space: nowrap;
+    margin-bottom: 1.5rem;
+}
+
+.paragraph{
+    color:  cornsilk;
+    font-size: 1.2rem;
 }
